@@ -1,0 +1,35 @@
+
+
+.sub{
+margin-left: 120px;
+width: 350px;
+height: 30px;
+
+}
+.principal{
+	
+float: left;
+}
+ul{
+list-style: none;
+}
+#demo{
+	margin-top: 65px;
+	margin-left: 210px; 
+     
+}
+#detalle{
+ margin-top: 300px;
+ background: #3DE9EC;
+
+}
+
+.todo{
+border: solid 1px;
+width: 700px;
+height: 812px;
+margin-left: 25%;
+text-align: center;
+
+}
+
